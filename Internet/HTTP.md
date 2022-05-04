@@ -17,6 +17,10 @@ client가 어떠한 서비스를 url 또는 다른 것을 통해 request 하면 
 
 - request: client -> server
 - response: server -> client
+    1. server connect
+    2. send request header and url
+    3. html file response
+    4. connection termination after file transfer conpletion
 
 HTML 문서 뿐만 아니라 Plain text, JSON data, XML 등의 정보도 주고 받을 수 있으며, client가 보통 정보 형태를 명시.
 
