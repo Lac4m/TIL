@@ -22,9 +22,9 @@ Domain Name(DN) examples: naver.com, google.com...
 
 6. "naver.com" 도메인을 관리하는 DNS 서버에 "www.naver.com" 호스트네임에 대한 IP 주소 질의
 
-7. Local DNS 서버에 "www.naver.com"에 대한 IP 주소 "222.122.195.6" 응답
+7. Local DNS 서버에 "www.naver.com" 에 대한 IP 주소 "222.122.195.6" 응답
 
-8. Local DNS 서버는 "www.naver.com"에 대한 IP 주소를 캐싱하고 IP 주소 정보 전달
+8. Local DNS 서버는 "www.naver.com" 에 대한 IP 주소를 캐싱하고 IP 주소 정보 전달
 
 > Caching은 일시적인 특징이 있는 데이터 하위 집합을 저장하는 고속 데이터 스토리지 계층. 이후 해당 데이터에 대한 요청이 있을 경우 데이터의 기본 스토리지 위치에 엑세스할 때보다 더 빠르게 요청을 처리할 수 있다. 주기억장치와 CPU 사이에 위치.
 
