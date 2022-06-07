@@ -84,3 +84,5 @@ argv[1] = "hello";
 argv[2] = 0;
 exec("/bin/echo", argv);
 printf("exec error\n");
+
+.
